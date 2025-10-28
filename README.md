@@ -20,7 +20,7 @@ npm install zypdev
 
 ## Features Overview
 
-### 🎯 Core Utilities
+###  Core Utilities
 - **calculate** - Calculate percentage between two numbers
 - **random** - Generate random numbers within a range
 - **shortNumber** - Format large numbers (e.g., 150000 -> 150K)
@@ -32,7 +32,7 @@ npm install zypdev
 - **AntiCrash** - Prevent your application from crashing
 - **analyzeModuleUsage** - Analyze and find unused modules in your project
 
-### 🤖 Discord.js Features
+###  Discord.js Features
 - **CommandHandler** - Automatic command loading and handling system
 - **EventHandler** - Automatic event loading system
 - **EmbedBuilder** - Easy and intuitive Discord embed creation
@@ -42,20 +42,20 @@ npm install zypdev
 - **Pagination** - Create paginated embeds with navigation
 - **CooldownManager** - Command cooldown system
 
-### 🛠️ Utility Tools
+###  Utility Tools
 - **StringUtils** - 15+ string manipulation functions
 - **ArrayUtils** - 20+ array helper functions
 - **ObjectUtils** - Deep clone, merge, flatten, and more
 - **ColorUtils** - Color conversion (hex, rgb, hsl, int)
 - **DataValidator** - Comprehensive input validation
 
-### 📝 Logger & Debug
+###  Logger & Debug
 - **Logger** - Colorful console logging with timestamps
 - **showBanner** - Display ASCII art banner
 - **WebhookLogger** - Send logs to Discord webhooks
 - **AdvancedLogger** - File-based logging with rotation
 
-### 📦 Managers
+###  Managers
 - **ConfigManager** - JSON configuration file management
 - **BackupSystem** - Automatic backup and restore system
 - **CooldownManager** - User cooldown tracking
